@@ -1,0 +1,64 @@
+body {
+    background-color: lightgrey;
+}
+h2,
+p,
+.readme-wrapper {
+    text-align: center;
+}
+h2 {
+    display: inline;
+}
+.font-color {
+    color: blue;
+}
+.boxes {
+    width: 20%;
+    display: block;
+    margin: auto;
+    padding: 1em;
+    border-style: solid;
+    border-radius: 2em;
+}
+.readme-wrapper:hover {
+    cursor: pointer;
+    font-weight: 700;
+    color: red;
+}
+span {
+    font-weight: 500;
+    color: green;
+}
+#box1 {
+    background-color: yellow;
+}
+#box2 {
+    background-color: red;
+}
+#box3 {
+    background-color: wheat;
+}
+#box4 {
+    background-color: lightblue;
+}
+.h-img {
+    width: 2em;
+    height: 1em;
+    background-color: white;
+    display: inline-block;
+}
+
+h1 {
+    color: purple;
+}
+.first-show {
+    color: orange;
+}
+.second-show {
+    color: brown;
+}
+.list {
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
